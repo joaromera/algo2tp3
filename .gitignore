@@ -1,3 +1,9 @@
 .idea/
 build/
 cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+correrTests
+*.a
